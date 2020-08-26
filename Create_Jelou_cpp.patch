@@ -1,0 +1,9 @@
+Index: Jelou.cpp
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Jelou.cpp	(revision ea8bec1de2ef931ca068dfd6848873dd8a9d9d87)
++++ Jelou.cpp	(revision ea8bec1de2ef931ca068dfd6848873dd8a9d9d87)
+@@ -0,0 +1,1 @@
++
